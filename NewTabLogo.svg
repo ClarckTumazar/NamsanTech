@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666667 8.4666667"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0">
+      <rect
+         x="-297"
+         y="1310"
+         width="147"
+         height="147"
+         id="rect384" />
+    </clipPath>
+    <clipPath
+       id="clip1">
+      <rect
+         x="-266"
+         y="1340"
+         width="87"
+         height="87"
+         id="rect387" />
+    </clipPath>
+    <clipPath
+       id="clip2">
+      <rect
+         x="-266"
+         y="1340"
+         width="87"
+         height="87"
+         id="rect390" />
+    </clipPath>
+    <clipPath
+       id="clip3">
+      <rect
+         x="-266"
+         y="1340"
+         width="87"
+         height="87"
+         id="rect393" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer1">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.05565778,0,0,0.05565778,16.686778,-72.723307)"
+       id="g422">
+      <path
+         d="m -297,1383.5 c 0,-40.59 32.907,-73.5 73.5,-73.5 40.593,0 73.5,32.91 73.5,73.5 0,40.59 -32.907,73.5 -73.5,73.5 -40.593,0 -73.5,-32.91 -73.5,-73.5 z"
+         fill="#ffc000"
+         fill-rule="evenodd"
+         id="path398" />
+      <g
+         clip-path="url(#clip1)"
+         id="g420">
+        <g
+           clip-path="url(#clip2)"
+           id="g418">
+          <g
+             clip-path="url(#clip3)"
+             id="g416">
+            <path
+               d="m 5.79994,-54.5045 h 7.39866 l 28.6279,42.7931 v -42.7931 h 6.9153 V 0 H 41.3431 L 12.7152,-42.8303 V 0 H 5.79994 Z"
+               stroke="#ffffff"
+               stroke-width="1.90714"
+               fill="#ffffff"
+               fill-rule="evenodd"
+               transform="matrix(-0.00554104,0.999985,-1.02404,-0.00573654,-236.676,1333.52)"
+               id="path400" />
+            <text
+               fill="#000000"
+               fill-opacity="0"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-size="54.5045px"
+               x="5.7999401"
+               y="-6.8130698"
+               id="text402">N</text>
+            <path
+               d="M 1.82568,-55.7592 H 46.0222 v 6.5801 H 27.5753 V 0 H 20.1965 V -49.1791 H 1.82568 Z"
+               stroke="#ffffff"
+               stroke-width="1.9564"
+               fill="#ffffff"
+               fill-rule="evenodd"
+               transform="matrix(-0.00554104,0.999985,-1.00136,-0.00560949,-236.979,1376.53)"
+               id="path404" />
+            <text
+               fill="#000000"
+               fill-opacity="0"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-size="55.7592px"
+               x="1.82568"
+               y="-6.9699001"
+               id="text406">T</text>
+            <path
+               d="m 5.79994,-54.5046 h 7.39866 l 28.6279,42.7932 v -42.7932 h 6.9153 V 0 H 41.3432 L 12.7153,-42.8303 V 0 H 5.79994 Z"
+               stroke="#000000"
+               stroke-width="1.90714"
+               fill-rule="evenodd"
+               transform="matrix(6.838e-4,-1,1.02406,7.07926e-4,-208.144,1433.59)"
+               id="path408" />
+            <text
+               fill="#000000"
+               fill-opacity="0"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-size="54.5046px"
+               x="5.7999401"
+               y="-6.8130698"
+               id="text410">N</text>
+            <path
+               d="M 1.82568,-55.7592 H 46.0223 v 6.58 H 27.5753 V 0 H 20.1966 V -49.1792 H 1.82568 Z"
+               stroke="#000000"
+               stroke-width="1.95641"
+               fill-rule="evenodd"
+               transform="matrix(6.838e-4,-1,1.00138,6.92247e-4,-208.049,1390.57)"
+               id="path412" />
+            <text
+               fill="#000000"
+               fill-opacity="0"
+               font-family="Arial, Arial_MSFontService, sans-serif"
+               font-size="55.7592px"
+               x="1.82568"
+               y="-6.9699001"
+               id="text414">T</text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
